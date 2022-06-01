@@ -1,0 +1,12 @@
+.container {
+	margin-bottom: 100px;
+}
+.box {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+h2 {
+ height: 50px;
+ background-color: rosybrown;
+ color: whitesmoke;
+}
